@@ -23,7 +23,7 @@ jobs:
 
     - name: Build Vue project
       run: npm run build
-
+ 
     - name: Kiểm tra build output
       run: ls -la dist || exit 1
 
