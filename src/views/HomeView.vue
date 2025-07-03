@@ -19,7 +19,7 @@
       <br />
       <!-- Download Resume Button -->
       <a
-        href="/img/Chu-Sy-Minh-CV-VN.pdf"
+        href="https://docs.google.com/document/d/1CuqJh_zebW3gl-V0w5aqkwg1VaQBdbJUhjdSxckgCeo/edit?tab=t.0"
         download
         aria-label="Tải xuống CV của tôi"
         class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-amber-200 border-amber-200 hover:bg-amber-200 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit"
