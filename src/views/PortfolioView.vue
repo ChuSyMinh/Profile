@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'Quản lý Công ty May Quang Nguyệt',
-          imageUrl: 'img/Company.jpg', 
+          imageUrl: 'img/company.jpg', 
           status: 'Thiết kế và phát triển phần mềm quản lý nhân sự, tồn kho, báo cáo tài chính, tính lương tự động dựa trên số lượng công đoạn nhân viên đã làm trong một sản phẩm',
           tech: 'Winform, SQL Server, Brevo',
           github: '',
