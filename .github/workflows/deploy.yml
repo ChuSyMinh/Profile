@@ -29,3 +29,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./dist
+        # Đảm bảo nhánh đích là gh-pages
+        publish_branch: gh-pages
