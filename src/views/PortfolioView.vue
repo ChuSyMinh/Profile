@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Phần mềm quản lý sinh viên ',
-          imageUrl: 'student-management.jpg',
+          imageUrl: 'img/student-management.jpg',
           status: 'Phần mềm quản lý sinh viên hỗ trợ CRUD thông tin sinh viên, điểm thi, giấy tờ nhập học, quan hệ gia đình và giáo viên, hỗ trợ báo cáo theo từng lớp ',
           tech: 'Python, Django, My SQL',
           github: 'https://github.com/ChuSyMinh/student-management-software',
