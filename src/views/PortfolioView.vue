@@ -57,7 +57,16 @@ export default {
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/ChuSyMinh/heart',
           demo: 'https://chusyminh.github.io/HappyNewYear/'
-        }
+        },
+         {
+          id: 7,
+          name: 'Hands-Free Gaming Controller ',
+          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fgame-app%2Ftalking-tom-gold-run-truy-duoi-gau-meo-221017&psig=AOvVaw0yVlWzpTzGm35TycxEyLz1&ust=1752738771757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjZ5_DywI4DFQAAAAAdAAAAABAE,
+          status: 'chơi game không cần dùng tay bằng cách di chuyển cơ thể ',
+          tech: 'Python, OpenCV, Mediapepe',
+          github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
+          demo: 'null'
+        },
       ]
     };
   }
