@@ -66,7 +66,7 @@ export default {
           tech: 'Python, OpenCV, Mediapepe',
           github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
           demo: 'null'
-        },
+        }
       ]
     };
   }
