@@ -11,7 +11,7 @@ export default {
           status: 'Phần mềm quản lý sinh viên hỗ trợ CRUD thông tin sinh viên, điểm thi, giấy tờ nhập học, quan hệ gia đình và giáo viên, hỗ trợ báo cáo theo từng lớp ',
           tech: 'Python, Django, My SQL',
           github: 'https://github.com/ChuSyMinh/student-management-software',
-          demo: null
+          demo: 'null'
         },
         {
           id: 2,
@@ -20,7 +20,7 @@ export default {
           status: 'Thiết kế và phát triển phần mềm quản lý nhân sự, tồn kho, báo cáo tài chính, tính lương tự động dựa trên số lượng công đoạn nhân viên đã làm trong một sản phẩm',
           tech: 'Winform, SQL Server, Brevo',
           github: '',
-          demo: null
+          demo: 'null'
         },
         {
           id: 3,
@@ -29,7 +29,7 @@ export default {
           status: 'Xây dựng hệ thống quản lý nhân viên làm việc từ xa, cho phép nhân viên ghi nhận task và cập nhật tiến độ trực tuyến, hỗ trợ nhà quản lý theo dõi và quản lý công việc từ xa ',
           tech: 'ASP .NET , SQL Server , Microservice',
           github: '',
-          demo: null
+          demo: 'null'
         },
         {
           id: 4,
@@ -61,11 +61,11 @@ export default {
          {
           id: 7,
           name: 'Hands-Free Gaming Controller ',
-          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fgame-app%2Ftalking-tom-gold-run-truy-duoi-gau-meo-221017&psig=AOvVaw0yVlWzpTzGm35TycxEyLz1&ust=1752738771757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjZ5_DywI4DFQAAAAAdAAAAABAE,
+          imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegioididong.com%2Fgame-app%2Ftalking-tom-gold-run-truy-duoi-gau-meo-221017&psig=AOvVaw0yVlWzpTzGm35TycxEyLz1&ust=1752738771757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjZ5_DywI4DFQAAAAAdAAAAABAE',
           status: 'chơi game không cần dùng tay bằng cách di chuyển cơ thể ',
           tech: 'Python, OpenCV, Mediapepe',
           github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
-          demo: null
+          demo: 'null'
         }
       ]
     };
