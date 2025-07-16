@@ -61,7 +61,7 @@ export default {
          {
           id: 7,
           name: 'Hands-Free Gaming Controller ',
-          imageUrl: 'img/talking tom run.png'
+          imageUrl: 'img/talking tom run.png',
           status: 'chơi game không cần dùng tay bằng cách di chuyển cơ thể ',
           tech: 'Python, OpenCV, Mediapepe',
           github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
