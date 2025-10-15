@@ -47,7 +47,7 @@ export default {
           status: 'Hiệu ứng trái tim với những ảnh bản thân',
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/ChuSyMinh/heart',
-          demo: 'https://chusyminh.github.io/heart/'
+          demo: 'hhttps://chusyminh.github.io/HoangNgan/'
         },
         {
           id: 6,
