@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Galaxy',
-          imageUrl: 'img/galaxy.png',
+          imageUrl: 'img/thienha.png',
           status: 'Giao diện website hiệu ứng không gian vũ trụ, bằng những hình ảnh yêu thích ',
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/ChuSyMinh/galaxy',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'Heart',
-          imageUrl: 'img/heart.png', 
+          imageUrl: 'img/traitim.png', 
           status: 'Hiệu ứng trái tim với những ảnh bản thân',
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/ChuSyMinh/heart',
