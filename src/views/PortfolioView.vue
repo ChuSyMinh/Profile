@@ -38,7 +38,7 @@ export default {
           status: 'Giao diện website hiệu ứng không gian vũ trụ, bằng những hình ảnh yêu thích ',
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/ChuSyMinh/galaxy',
-          demo: 'https://chusyminh.github.io/galaxy/'
+          demo: 'https://chusyminh.github.io/HoangNgan/'
         },
         {
           id: 5,
