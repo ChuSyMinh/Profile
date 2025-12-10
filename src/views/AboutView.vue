@@ -235,7 +235,7 @@ export default {
           <img class="w-9/12 rounded-full mb-3 fadein-up"
           src="img/avt.jpg">
         </div>
-        <div class="md:w-7/12">
+        <div class="md:w-5/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp; Chào mọi người, tôi là lập trình viên backend đam mê phát triển hệ thống, đặc biệt trong lĩnh vực .NET. Luôn tìm kiếm cơ hội nâng cao kỹ năng lập trình, thiết kế
 hệ thống phức tạp, ứng dụng kiến trúc Microservices và DevOps.
