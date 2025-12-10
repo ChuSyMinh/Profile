@@ -90,16 +90,16 @@ export default {
             <div v-for="item in items" :key="item.id">
               <div
                 class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
-                <div class="flex items-center justify-center w-full aspect-square overflow-hidden zoom-in">
-                  <img
-                    alt="Project image"
-                    loading="lazy"
-                    decoding="async"
-                    data-nimg="1"
-                    class="drop-shadow-xl rounded rounded-xl object-cover w-full h-full"
-                    :src="item.imageUrl" 
-                  />
-                </div>
+                <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
+  <img
+    alt="Project image"
+    loading="lazy"
+    decoding="async"
+    data-nimg="1"
+    class="drop-shadow-xl rounded rounded-xl"
+    :src="item.imageUrl"
+  />
+</div>
                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
                   <div class="title-text font-medium text-secondary">{{ item.name }}</div>
                   <div class="w-full text-left text-[10px] text-[#c1c1c1] md:text-xs lg:text-sm">
