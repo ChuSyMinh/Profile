@@ -133,7 +133,7 @@
         decoding="async"
         data-nimg="1"
         class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict"
-        src="img/img.22.jpg"
+        src="img/img2.jpg"
       />
     </div>
   </main>
