@@ -132,7 +132,7 @@
         height="300"
         decoding="async"
         data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict"
+        class="w-7/12 md:h-auto rounded-full border-4 border-amber-200 pict"
         src="img/avt.jpg"
       />
     </div>
