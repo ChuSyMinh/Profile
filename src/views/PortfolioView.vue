@@ -130,7 +130,7 @@ export default {
           tech: 'HTML, CSS, Mediapepe',
           github: 'https://github.com/ChuSyMinh/Noel',
           demo: 'https://chusyminh.github.io/Noel/'
-        },
+        }
       ]
     };
   }
