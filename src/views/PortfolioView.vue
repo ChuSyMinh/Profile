@@ -66,7 +66,71 @@ export default {
           tech: 'Python, OpenCV, Mediapepe',
           github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
           demo: 'null'
-        }
+        },
+        {
+          id: 8        {
+          id: 2,
+          name: 'Quản lý Công ty May Quang Nguyệt',
+          imageUrl: 'img/company.jpg', 
+          status: 'Thiết kế và phát triển phần mềm quản lý nhân sự, tồn kho, báo cáo tài chính, tính lương tự động dựa trên số lượng công đoạn nhân viên đã làm trong một sản phẩm',
+          tech: 'Winform, SQL Server, Brevo',
+          github: '',
+          demo: 'null'
+        },
+        {
+          id: 3,
+          name: 'Quản lý nhân viên tại Quang Nguyệt',
+          imageUrl: 'img/user.jpg',
+          status: 'Xây dựng hệ thống quản lý nhân viên làm việc từ xa, cho phép nhân viên ghi nhận task và cập nhật tiến độ trực tuyến, hỗ trợ nhà quản lý theo dõi và quản lý công việc từ xa ',
+          tech: 'ASP .NET , SQL Server , Microservice',
+          github: '',
+          demo: 'null'
+        },
+        {
+          id: 4,
+          name: 'Galaxy',
+          imageUrl: 'img/thienha.png',
+          status: 'Giao diện website hiệu ứng không gian vũ trụ, bằng những hình ảnh yêu thích ',
+          tech: 'HTML, CSS, JavaScript',
+          github: 'https://github.com/ChuSyMinh/galaxy',
+          demo: 'https://chusyminh.github.io/HoangNgan/'
+        },
+        {
+          id: 5,
+          name: 'Heart',
+          imageUrl: 'img/traitim.png', 
+          status: 'Hiệu ứng trái tim với những ảnh bản thân',
+          tech: 'HTML, CSS, JavaScript',
+          github: 'https://github.com/ChuSyMinh/heart',
+          demo: 'https://chusyminh.github.io/heart/'
+        },
+        {
+          id: 6,
+          name: 'Happy New Year',
+          imageUrl: 'img/l.jpg', 
+          status: 'Chúc mừng năm mới với hiệu ứng pháo hoa',
+          tech: 'HTML, CSS, JavaScript',
+          github: 'https://github.com/ChuSyMinh/heart',
+          demo: 'https://chusyminh.github.io/HappyNewYear/'
+        },
+         {
+          id: 7,
+          name: 'Hands-Free Gaming Controller ',
+          imageUrl: 'img/talking tom run.png',
+          status: 'chơi game không cần dùng tay bằng cách di chuyển cơ thể ',
+          tech: 'Python, OpenCV, Mediapepe',
+          github: 'https://github.com/ChuSyMinh/Hands-Free-Gaming-Controller',
+          demo: 'null'
+        },
+        {
+          id: 8,
+          name: 'Merry Christmas',
+          imageUrl: 'img/noel.png',
+          status: 'dùng cử chỉ tay để thay đổi vật thể cây thông',
+          tech: 'HTML, CSS, Mediapepe',
+          github: 'https://github.com/ChuSyMinh/Noel',
+          demo: 'https://chusyminh.github.io/Noel/'
+        },
       ]
     };
   }
